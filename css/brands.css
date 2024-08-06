@@ -64,6 +64,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* GitHub */
+.button {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.button:hover,
+.button:focus {
+  filter: brightness(90%);
+}
+
 /* Brand Icons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
